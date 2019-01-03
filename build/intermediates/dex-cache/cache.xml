@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\coRtc\androidrtc\app\build\intermediates\exploded-aar\io.pristine\libjingle\11139\jars\libs\libjingle_peerconnection.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5a3f4d801aa25da4842700efd9470321b02cf7d4">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\libjingle_peerconnection_2c6f0acd3c995ebf85e2199d12458ebc64f9f0a3.jar" />
+    </item>
+    <item
+        jar="C:\coRtc\androidrtc\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_600c78affb9e8121655a2f4d89b36b37e32e87ef.jar" />
+    </item>
+    <item
+        jar="C:\coRtc\androidrtc\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b1e7d7534686245f1e20fc33a46bff4f1f3fff5c">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\instant-run_60921b2beb66ba19e571dbac7c39ae6b2d6ccbfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\hamcrest-core-1.3_2323b0689b69c651dc52b5f9e0fa5ab289cff959.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\org.java-websocket\Java-WebSocket\1.3.0\db2658f013fb163de4a99274c2eb9e17efe535d2\Java-WebSocket-1.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db2658f013fb163de4a99274c2eb9e17efe535d2">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\Java-WebSocket-1.3.0_7f2cc9cce1eeffcc08c3f6c3401a7ca7ec0c5da1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\net.sourceforge.jsdp\jsdp\1.1\a499fedd03373b7eff738d434074c9c80922eb6a\jsdp-1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a499fedd03373b7eff738d434074c9c80922eb6a">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\jsdp-1.1_3f75f34ca3786cea5e5a7436a143358eb554745b.jar" />
+    </item>
+    <item
+        jar="C:\coRtc\androidrtc\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-21.0.3_fd650f753b5ebd7718066a1e5639dcf77c335830.jar" />
+    </item>
+    <item
+        jar="C:\coRtc\androidrtc\app\libs\autobahn-0.5.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5f62bc6117f905fd37955f6e2ebd3aad68701b60">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\autobahn-0.5.0_6072d19388472ed203454b86d1b9c128bc2ec625.jar" />
+    </item>
+    <item
+        jar="C:\coRtc\androidrtc\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1752f4687bd422653f5a54af3dd347a864239258">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d2f8657af22fa5e8c3c9b3cef65b6fbdb6321021.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_fff5ba9dcfc3fb927efe66bf6ce29e1891a7463e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\ch.imvs\sdes4j\1.1.1\f6d8a0542e591d816d690e1cff0268702420429f\sdes4j-1.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f6d8a0542e591d816d690e1cff0268702420429f">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\sdes4j-1.1.1_2c48dd72dc7db0d0f42c051efc177c25a4dea548.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\commons-codec\commons-codec\1.6\b7f0fc8f61ecadeb3695f0b9464755eee44374d4\commons-codec-1.6.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b7f0fc8f61ecadeb3695f0b9464755eee44374d4">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\commons-codec-1.6_bad1498056a52da76de93df9ca658fb53581bc38.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\5.1.1\b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8\butterknife-5.1.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b3652dfd65ca0bcf18790ff1a1f7624af4cb2bb8">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\butterknife-5.1.1_4e4ce574f3d72998b594448756183a3048e0c38d.jar" />
+    </item>
+    <item
+        jar="C:\coRtc\androidrtc\app\libs\apiEngine v1.1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ff980a0f637e8e3830cb09400c2c6eb4f0ca319">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\apiEngine v1.1.0_b6d18b2fe2c8fbd4335bcb447c2888db937989e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\engine.io-client\0.4.1\9fa2901033b1e43a254a35bc82be281dfa7bc48f\engine.io-client-0.4.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9fa2901033b1e43a254a35bc82be281dfa7bc48f">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\engine.io-client-0.4.1_ec0ec0a0b7fe172ef8851652664b3829c12e5cfb.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.github.nkzawa\socket.io-client\0.4.2\6353363e9265ff89530621a4283cd4a62d69454b\socket.io-client-0.4.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6353363e9265ff89530621a4283cd4a62d69454b">
+        <dex dex="C:\coRtc\androidrtc\app\build\intermediates\pre-dexed\debug\socket.io-client-0.4.2_da720ffcc5ad5b6455f7684c7a9a1be92a13dfe6.jar" />
+    </item>
+
+</items>

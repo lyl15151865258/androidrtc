@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">androidrtc</string>
+    <string name="channel_error_title">连接错误</string>
+    <string name="ok">OK</string>
+</resources>

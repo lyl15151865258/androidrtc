@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:descendantFocusability="blocksDescendants"
+              android:orientation="horizontal"
+              android:padding="3dp"
+>
+
+    <TextView
+        android:id="@+id/tv_username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="用户名称"
+        android:textSize="18dp"/>
+    <Button
+        android:id="@+id/bt_agree_audio"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:focusable="false"
+        android:text="音"
+        android:textSize="12dp"
+    />
+    <Button
+        android:id="@+id/bt_agree_video"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:focusable="false"
+        android:text="公"
+        android:textSize="12dp"
+        android:visibility="gone"/>
+
+    <Button
+        android:id="@+id/bt_agree_private_video"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:focusable="false"
+        android:text="私"
+        android:textSize="12dp"/>
+    <Button
+        android:id="@+id/bt_down"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:text="制"
+        android:textSize="12dp"
+        android:visibility="gone"
+    />
+    <Button
+        android:id="@+id/bt_invite"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:text="邀"
+        android:textSize="12dp"
+        android:visibility="gone"/>
+</LinearLayout>
